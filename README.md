@@ -6,7 +6,7 @@ React · Next.js · TypeScript · Node.js · PHP · SQL
 
 Desenvolvedor com experiência prática em desenvolvimento web, criação e evolução de aplicações e integrações com APIs. Busco oportunidades júnior no Rio de Janeiro/RJ e remotas no Brasil.
 
-[Portfólio](https://joaovitor-dev.vercel.app) · [GitHub](https://github.com/Jvms04)
+[LinkedIn](https://www.linkedin.com/in/joaovitormocosantos/) · [Portfólio](https://joaovitor-dev.vercel.app) · [GitHub](https://github.com/Jvms04)
 
 ## Projetos em destaque
 
